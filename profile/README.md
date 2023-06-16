@@ -57,7 +57,7 @@ See the [OPEN_SOURCE](OpenSoruce_LICENSE.md) file for license rights and limitat
 https://www.figma.com/file/gBDXKyEsHgX1iSm2vIt31k/YATA_app?node-id=0-1
 
 ## Code
-https://github.com/Eno7vation/YATA_Release
+[https://github.com/Eno7vation/YATA_Release](https://github.com/Eno7vation/Enov_YATA)
 
 개발자
 -------------
