@@ -2,7 +2,7 @@ Enov YATA 사용 가이드
 (Django를 이용한 카풀 오픈소스 프로젝트)
 =============
 
-## Using Stack List 
+## Use Stack List 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
