@@ -42,7 +42,16 @@ Enov YATA 사용 가이드
 See the [LICENSE](LICENSE.txt) file for license rights and limitations (AGPL) <br>
 See the [OPEN_SOURCE](OpenSoruce_LICENSE.md) file for license rights and limitations (MIT)
 
-Templates과 Server파일은 저작권 때문에 공개하지 않습니다.
+## 미포함
+
+* Templates <br>
+* Server
+  * Fine Tuning Nginx with Golang
+  * Main Server Auto BackUp, Recovery System
+  * Side Server Auto Recovery
+  * CI/CD Pipeline
+  * Docker file, Kubectl yaml 
+
 
 ## 디자인
 https://www.figma.com/file/gBDXKyEsHgX1iSm2vIt31k/YATA_app?node-id=0-1
