@@ -56,6 +56,9 @@ See the [OPEN_SOURCE](OpenSoruce_LICENSE.md) file for license rights and limitat
 ## 디자인
 https://www.figma.com/file/gBDXKyEsHgX1iSm2vIt31k/YATA_app?node-id=0-1
 
+## Code
+https://github.com/Eno7vation/YATA_Release
+
 개발자
 -------------
 ### 해당 프로젝트는 오픈소스인 Django와 Golang를 사용해 만들어졌습니다.
