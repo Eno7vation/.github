@@ -140,7 +140,7 @@ DB 가이드
 
 > ```docker image ls```
 
-> ```docker run enov_yata/django -p 8000:8000 -d ```
+> ```docker run -p 8000:8000 -d enov_yata/django ```
 
 ##### 1-1 실행 종료 
 > ```docker ps```
